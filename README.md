@@ -4,4 +4,4 @@ This is a personal project to solve as many CCC (Candian Computing Competition) 
 
 ## Index
 
-1. 2019 - [J1](./2019/j1)
+1. 2019 - [J1](./2019/j1) ([Solution](./2019/j1/main.py))

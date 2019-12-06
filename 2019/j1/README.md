@@ -23,3 +23,5 @@ line contains the number of successful 1-point free throws. Each number will be 
 The output will be a single character. If the Apples scored more points than the Bananas, output
 A. If the Bananas scored more points than the Apples, output B. Otherwise, output T, to indicate a
 tie.
+
+## [solution](./main.py)
