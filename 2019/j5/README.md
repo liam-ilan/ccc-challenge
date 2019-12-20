@@ -44,5 +44,5 @@ For an additional 7 of the 15 available marks, S ≤ 12.
 ## Output Specification
 The output will be S lines long and describes the substitutions in order.
 
-### [solution](./main.py)
-### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
+#### [Solution](./main.py)
+#### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)

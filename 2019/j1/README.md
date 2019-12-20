@@ -19,4 +19,5 @@ The output will be a single character. If the Apples scored more points than the
 A. If the Bananas scored more points than the Apples, output B. Otherwise, output T, to indicate a
 tie.
 
-## [solution](./main.py)
+#### [Solution](./main.py)
+#### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
