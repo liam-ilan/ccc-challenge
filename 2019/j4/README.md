@@ -38,4 +38,5 @@ For 8 of the 15 available marks, there will be at most 1000 characters in the in
 Output the final orientation of the four numbers. Specifically, each of the two lines of output will
 contain two integers, separated by one space.
 
-## [solution](./main.py)
+### [solution](./main.py)
+### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)

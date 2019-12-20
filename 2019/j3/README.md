@@ -22,4 +22,5 @@ The encoding of a line will be a sequence of pairs, separated by a space, where 
 integer (representing the number of times the character appears consecutively) followed by a space,
 followed by the character.
 
-## [solution](./main.py)
+### [solution](./main.py)
+### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)

@@ -19,4 +19,5 @@ The output should be L lines long. Each line should contain the decoding of the 
 line of the input. Specifically, if line i + 1 of the input contained N x, then line i of the output
 should contain just the character x printed N times.
 
-## [solution](./main.py)
+### [solution](./main.py)
+### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
