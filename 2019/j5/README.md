@@ -45,4 +45,4 @@ For an additional 7 of the 15 available marks, S ≤ 12.
 The output will be S lines long and describes the substitutions in order.
 
 #### [Solution](./main.py)
-#### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
+#### [Problem PDF](https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)

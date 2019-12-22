@@ -39,4 +39,4 @@ Output the final orientation of the four numbers. Specifically, each of the two 
 contain two integers, separated by one space.
 
 #### [Solution](./main.py)
-#### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
+#### [Problem PDF](https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)

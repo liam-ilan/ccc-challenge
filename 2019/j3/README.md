@@ -23,4 +23,4 @@ integer (representing the number of times the character appears consecutively) f
 followed by the character.
 
 #### [Solution](./main.py)
-#### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
+#### [Problem PDF](https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)

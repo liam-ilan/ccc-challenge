@@ -20,4 +20,4 @@ A. If the Bananas scored more points than the Apples, output B. Otherwise, outpu
 tie.
 
 #### [Solution](./main.py)
-#### [Problem PDF](https://www.cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
+#### [Problem PDF](https://cemc.uwaterloo.ca/contests/computing/2019/stage%201/juniorEF.pdf)
