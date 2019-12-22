@@ -12,3 +12,4 @@ All problems come from the [CEMC](https://www.cemc.uwaterloo.ca/contests/past_co
 4. 2019 - [J4](./2019/j4) ([Solution](./2019/j4/main.py))
 5. 2019 - [J5](./2019/j5) ([Solution](./2019/j5/main.py))
 6. 2018 - [J1](./2018/j1) ([Solution](./2018/j1/main.py))
+7. 2018 - [J2](./2018/j2) ([Solution](./2018/j2/main.py))
