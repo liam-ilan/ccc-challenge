@@ -1,4 +1,4 @@
-# J2:  Occupy parking
+# J2: Occupy parking
 
 ## Problem Description
 You supervise a small parking lot which has N parking spaces.
