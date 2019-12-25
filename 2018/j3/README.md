@@ -1,4 +1,4 @@
-# J2: Problem J3: Are we there yet?
+# J3: Are we there yet?
 
 ## Problem Description
 You decide to go for a very long drive on a very straight road. Along this road are five cities. As
