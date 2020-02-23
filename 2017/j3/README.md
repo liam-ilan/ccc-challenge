@@ -1,4 +1,4 @@
-#  J3: Exactly Electrical
+# J3: Exactly Electrical
 
 ## Problem Description
 You live in Grid City, which is composed of integer-numbered streets which run east-west (parallel
