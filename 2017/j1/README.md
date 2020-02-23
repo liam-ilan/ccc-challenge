@@ -21,4 +21,4 @@ contains the integer y (−1000 ≤ y ≤ 1000; y 6= 0).
 Output the quadrant number (1, 2, 3 or 4) for the point (x, y).
 
 #### [Solution](./main.py)
-#### [Problem PDF](https://cemc.uwaterloo.ca/contests/computing/2018/stage%201/juniorEF.pdf)
+#### [Problem PDF](https://cemc.uwaterloo.ca/contests/computing/2017/stage%201/juniorEF.pdf)
