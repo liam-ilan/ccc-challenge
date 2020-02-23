@@ -1,4 +1,4 @@
-# J1:  Telemarketer or not?
+# J1: Telemarketer or not?
 
 ## Problem Description
 Here at the Concerned Citizens of Commerce (CCC), we have noted that telemarketers like to use
