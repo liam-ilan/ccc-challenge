@@ -17,3 +17,4 @@ All problems come from the [CEMC](https://www.cemc.uwaterloo.ca/contests/past_co
 9. 2018 - [J4](./2018/j4) ([Solution](./2018/j4/main.py))
 10. 2017 - [J1](./2017/j1) ([Solution](./2017/j1/main.py))
 11. 2017 - [J2](./2017/j2) ([Solution](./2017/j2/main.py))
+11. 2017 - [J3](./2017/j3) ([Solution](./2017/j3/main.py))
