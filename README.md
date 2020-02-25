@@ -4,6 +4,8 @@ This is a personal project to solve as many CCC (Candian Computing Competition) 
 
 All problems come from the [CEMC](https://www.cemc.uwaterloo.ca/contests/past_contests.html)
 
+All solutions are written in [Python 3](https://www.python.org/)
+
 ## Index
 
 1. 2019 - [J1](./2019/j1) ([Solution](./2019/j1/main.py)) 
@@ -21,3 +23,4 @@ All problems come from the [CEMC](https://www.cemc.uwaterloo.ca/contests/past_co
 13. 2017 - [J4](./2017/j4) ([Solution](./2017/j4/main.py))
 14. 2015 - [J1](./2015/j1) ([Solution](./2015/j1/main.py))
 15. 2015 - [J2](./2015/j2) ([Solution](./2015/j2/main.py))
+16. 2015 - [J3](./2015/j3) ([Solution](./2015/j3/main.py))
